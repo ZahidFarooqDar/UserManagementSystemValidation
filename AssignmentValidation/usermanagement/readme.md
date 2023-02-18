@@ -23,7 +23,7 @@
 
   ## Data Structures Used
   - List
-  - HahsMap
+  - HashMap
 
 ## Project Summary 
 
