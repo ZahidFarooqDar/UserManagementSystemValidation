@@ -1,6 +1,6 @@
-# Assignments
+# Weekly-Test
 
-# UserManagement
+# 
 
 ## FrameWork and Language Used
 - SpringBoot
@@ -8,29 +8,40 @@
 
 ## Data Flow (Functions Used)
   ### 1) Controller
-  - addUser
-  - GetAll
-  - GetUserByid
-  - update
-  - delete
+  - 
+  - AddressController
+  - OrderController
+  - ProductController
+  - UserController
 
   ### Services
-  - Here is the Business Logic 
+  * Here is the Business Logic of 
+  - AddressService
+  - ProductService
+  - OrderService
+  - UserService
 
-  ### Repository
+  ### DAO
   - it extends JPArepository
 
   ### DataBase Design
 
   - Designed in the Tabular Form
 
+ ### Models
+ * Basic classes of the folowing
+ - Address
+ - Order
+ - product
+ - User
+
   ## Data Structures Used
   - List
-  - HashMap
+
 
 ## Project Summary 
 
-- In this project we are doing the CRUD operations and are adding all the Data to the DataBase and retriving the data by performing the required operation and the performed operations are as follows
+- In this project we are Managing e-commerce application 
 
  1) GetMapping  -> To retrieve the Data from th DataBase
  2) PutMapping  -> To update the Data
